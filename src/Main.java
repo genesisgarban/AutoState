@@ -1,17 +1,18 @@
 public class Main {
     public static void main(String[] args) {
 
-       Auto auto = new Auto();
+        Auto auto = new Auto();
 
-       auto.on();
-       auto.drive();
-       auto.off();
+        auto.drive();
+        auto.off();
+        auto.on();
 
-/*
-*Encendido
-* En movimiento
-* Apagado
- */
+
+        /*
+         *Encendido
+         * En movimiento
+         * Apagado
+         */
 
     }
 }
